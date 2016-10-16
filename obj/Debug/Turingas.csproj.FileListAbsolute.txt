@@ -1,0 +1,6 @@
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\bin\Debug\Turingas.exe.config
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\obj\Debug\Turingas.csprojResolveAssemblyReference.cache
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\bin\Debug\Turingas.exe
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\bin\Debug\Turingas.pdb
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\obj\Debug\Turingas.exe
+c:\users\justinas\documents\visual studio 2015\Projects\Turingas\Turingas\obj\Debug\Turingas.pdb
